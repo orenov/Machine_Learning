@@ -1,0 +1,6 @@
+.DS_Store
+*.csv
+*.gl
+image_test_data
+image_train_data
+backtrace.0
