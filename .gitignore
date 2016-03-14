@@ -5,3 +5,5 @@ image_test_data
 image_train_data
 backtrace.0
 .ipynb_checkpoints/
+*.json
+*.zip
